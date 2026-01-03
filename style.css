@@ -1,0 +1,19 @@
+
+
+/* #shop{
+    background-color: lightgreen;
+    height: 500px;
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+}
+
+.slot{
+    height: 20%;
+    width: 20%;
+} */
+
+.slot{
+    height: 100px;
+    width: 100px;
+}
